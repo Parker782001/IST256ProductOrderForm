@@ -12,4 +12,4 @@
 
 Preview Picture
 
-![image](https://github.com/Parker782001/Product-Order-Form/blob/main/Screenshot%202023-03-14%20161721.png)
+![image](https://github.com/Parker782001/IST256ProductOrderForm/blob/main/SandwichesPreview.png)
