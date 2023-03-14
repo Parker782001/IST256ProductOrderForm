@@ -8,7 +8,7 @@
 
 ## Links and images
 
-[Product Order Form](https://parker782001.github.io/Product-Order-Form/)
+[Product Order Form](https://parker782001.github.io/IST256ProductOrderForm/)
 
 Preview Picture
 
